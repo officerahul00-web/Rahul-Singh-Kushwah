@@ -1,0 +1,6 @@
+{
+  "name": "Maa Amba Muft Raktdaan",
+  "description": "Emergency voluntary free blood donation network connecting seekers with verified donors across India with multilingual support, live SOS alerts, and DPDP compliance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
